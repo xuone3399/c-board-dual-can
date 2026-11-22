@@ -1,0 +1,35 @@
+# ---- Keil MDK build output ----
+Objects/
+Listings/
+DebugConfig/
+RTE/_can/
+*.uvguix.*
+*.o
+*.d
+*.crf
+*.dep
+*.lnp
+*.axf
+*.hex
+*.bin
+*.lst
+*.map
+*.htm
+*.sct
+*.iex
+*.bak
+*.orig
+*.rej
+JLinkLog.txt
+
+# ---- IDE / editors ----
+build/
+cmake-build-*/
+.idea/
+.vscode/
+*.swp
+
+# ---- OS junk ----
+Thumbs.db
+desktop.ini
+.DS_Store
